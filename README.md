@@ -26,6 +26,6 @@ This project has been a fantastic opportunity to enhance my skills in .NET, Web 
 
 🌐 Here is the live application: https://university-website-pink.vercel.app/login
 
-🎥 Here is a demo for the project: 
+🎥 Here is a demo for the project: https://drive.google.com/drive/folders/1vrkvwdS0MLZp3nmKdInNH5hUwHPpqhxu?usp=sharing
 
 💡 I welcome feedback and am open to discussions about the technical details and challenges faced during this project!
