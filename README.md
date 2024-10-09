@@ -21,9 +21,11 @@ This project leverages the power of .NET and Web API for secure and efficient da
 🔍 JWT authentication with refresh tokens for secure sessions.
 📊 Comprehensive logging for system activity tracking.
 📦 Utilized AutoMapper for efficient data mapping.
+
 This project has been a fantastic opportunity to enhance my skills in .NET, Web API, React.js, and Bootstrap while solving real-world problems efficiently.
 
 🌐 Here is the live application: https://university-website-pink.vercel.app/login
+
 🎥 Here is a demo for the project: 
 
 💡 I welcome feedback and am open to discussions about the technical details and challenges faced during this project!
